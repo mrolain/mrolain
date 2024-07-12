@@ -26,3 +26,16 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrolain&show_icons=true&locale=en&layout=compact&theme=dark" alt="mrolain" />
 </div>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrolain&show_icons=true&locale=en&theme=dark" alt="mrolain" />
+</div>
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrolain&theme=dark" alt="mrolain" />
+</div>
+
+<h3 align="center" style="color: #e4e4e4;">Commit Activity</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mrolain&theme=github" alt="mrolain's commit activity" />
+</p>
